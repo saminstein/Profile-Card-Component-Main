@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/profile/saminstein/solutions)
-- Live Site URL: [Github Live site](https://your-live-site-url.com)
+- Live Site URL: [Github Live site](https://saminstein.github.io/Profile-Card-Component-Main/)
 
 ## My process
 
