@@ -21,7 +21,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: url('/images/bg-pattern-top.svg') left -350px top -350px, url('/images/bg-pattern-bottom.svg') right -350px bottom -350px var(--dark-cyan);
+    background: url('/images/bg-pattern-top.svg') left -710px top -710px, url('/images/bg-pattern-bottom.svg') right -710px bottom -710px var(--dark-cyan);
     background-repeat: no-repeat;
     font-family: 'Kumbh Sans';
     
